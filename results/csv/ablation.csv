@@ -1,0 +1,7 @@
+Configuration,Mean score
+"Risk-informed, 5 nodes",0.9134438775510203
+"Risk-informed, 9 nodes",0.9175510204081632
+"Risk-informed, 13 nodes",0.9146003401360545
+"Risk-informed, 25 nodes",0.9136989795918369
+"No shortlist, full search",0.9123639455782312
+"Structure only, 13 nodes",0.9090901360544215
